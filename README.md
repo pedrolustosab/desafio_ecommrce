@@ -1,2 +1,2 @@
 # desafio_ecommrce
-DIO
+Criação de um database
